@@ -12,3 +12,12 @@ https://colab.research.google.com/drive/1caJpEJzsRnSMjTeyZqP-d9Uops17HEnO?usp=sh
 
 Регрессия
 https://colab.research.google.com/drive/16GW72ejKTGl8_7peZEqI1nzqTmJtsoLa?usp=sharing
+
+Несбалансированный датасет:
+https://colab.research.google.com/drive/16P_JiPFDqA9L58Mwq8moXoLEIKjg58ER?usp=sharing
+
+Автоэнкодеры:
+https://colab.research.google.com/drive/1mrGpq1cSEGHHmd3u88GM4pZz2q6HNNPD?usp=sharing
+
+NLP:
+https://colab.research.google.com/drive/1Pl29f5mX46Ev2uVT13trOzmIjtmMjfZU?usp=sharing
